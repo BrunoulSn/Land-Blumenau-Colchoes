@@ -46,7 +46,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 
 1. Clone this repository:
 ```Bash
-git clone [https://github.com/BrunoulSn/Land-Blumenau-Colchoes.git](https://github.com/BrunoulSn/Land-Blumenau-Colchoes.git)
+git clone https://github.com/BrunoulSn/Land-Blumenau-Colchoes.git
 ```
 
 2. Navigate to the project folder:
