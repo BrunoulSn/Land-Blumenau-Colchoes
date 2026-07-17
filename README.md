@@ -72,7 +72,3 @@ The project is live and ready to be tested online!
 🔗 Project Link: [https://land-blumenau-colchoes.vercel.app](https://land-blumenau-colchoes.vercel.app)
 
 (Continuous deployment was configured and is hosted on the Vercel platform)
-
-🔗 Project Link: https://land-blumenau-colchoes.vercel.app (Substitua por seu link real do Vercel caso seja diferente)
-
-(Continuous deployment was configured and is hosted on the Vercel platform)
